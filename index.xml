@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>http://liselecerf.github.io/bookshelf/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Jun 2016 20:16:57 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://liselecerf.github.io/bookshelf/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>january</title>
-      <link>http://replace-this-with-your-hugo-site.com/journal/january/</link>
+      <link>http://liselecerf.github.io/bookshelf/journal/january/</link>
       <pubDate>Tue, 14 Jun 2016 20:16:57 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/journal/january/</guid>
+      <guid>http://liselecerf.github.io/bookshelf/journal/january/</guid>
       <description></description>
     </item>
     
     <item>
       <title>good to great</title>
-      <link>http://replace-this-with-your-hugo-site.com/2016/06/14/good-to-great</link>
+      <link>http://liselecerf.github.io/bookshelf/2016/06/14/good-to-great</link>
       <pubDate>Tue, 14 Jun 2016 20:15:53 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/2016/06/14/good-to-great</guid>
+      <guid>http://liselecerf.github.io/bookshelf/2016/06/14/good-to-great</guid>
       <description>
 
 &lt;h1 id=&#34;i-thin-martin-s-nails-are-amazing&#34;&gt;I thin Martin’s nails are amazing.&lt;/h1&gt;
@@ -36,7 +36,7 @@
 &lt;li&gt;something&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/img/nails.jpg&#34; alt=&#34;Image of his nails&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://liselecerf.github.io/bookshelf/img/nails.jpg&#34; alt=&#34;Image of his nails&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

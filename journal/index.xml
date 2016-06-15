@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journals on My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/journal/</link>
+    <link>http://liselecerf.github.io/bookshelf/journal/</link>
     <description>Recent content in Journals on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Jun 2016 20:16:57 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/journal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://liselecerf.github.io/bookshelf/journal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>january</title>
-      <link>http://replace-this-with-your-hugo-site.com/journal/january/</link>
+      <link>http://liselecerf.github.io/bookshelf/journal/january/</link>
       <pubDate>Tue, 14 Jun 2016 20:16:57 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/journal/january/</guid>
+      <guid>http://liselecerf.github.io/bookshelf/journal/january/</guid>
       <description></description>
     </item>
     
